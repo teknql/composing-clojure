@@ -1,0 +1,6 @@
+[book]
+authors = ["Ryan Schmukler"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Composing Clojure"
